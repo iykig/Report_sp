@@ -1,3 +1,4 @@
 # Report_sp
 
-sudo clone https://github.com/iykig/Report_sp.git
+git
+clone https://github.com/iykig/Report_sp.git
